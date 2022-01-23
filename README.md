@@ -1,4 +1,5 @@
 # trunk
+Secure offline data storage and it's covert communication implemented as an Android app.
 
 A new Flutter project.
 
